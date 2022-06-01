@@ -100,7 +100,8 @@ layout: default
 &ensp;&ensp;&ensp;&ensp;本次测试以准确率Acc值作为评测指标，最终我们会对根据测试集的测试结果作为最终结果，即：
 
 
-$$Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$$
+$Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$
+<!-- ![](http://latex.codecogs.com/svg.latex?Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}) -->
 <!-- $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\times R_e}{P_e+R_e}\\Macro\_F=\frac{1}{n}\sum_{e\in Emotions}F_{e}\\Macro\_F_{final} = \frac{(Macro\_F_{通用}+Macro\_F_{疫情})}{2}\\$$  -->
 
 其中$e\in Emotions, Emotions= \{Anger, Fear, sad, fear, Frustration, Happy, Sad, Surprise, Neutral \}$
