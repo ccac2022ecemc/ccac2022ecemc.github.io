@@ -47,11 +47,11 @@ layout: default
 | 生气  | 现在的码根本穿不进去 |现在的码根本穿不进去|
 |  害怕  | 怎么办 |说购买超量|
 |  沮丧  | 那抱歉了呢    | 没有哈 |
-|  开心 | ![image](https://github.com/ccac2022ecemc/ccac2022ecemc.github.io/blob/main/IMGS/smile.jpg)|嗯嗯  这种小事完全没问题|
+|  开心 | <img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/smile.jpg">|嗯嗯  这种小事完全没问题|
 | 惊讶  | 没有找到那个查询更多啊！ | 没有找到那个查询更多啊！         |
 | 中性 | 您从店铺首页，点击进入专区                         |---------无---------                                         |
 
-
+<!-- https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/smile.jpg -->
 
 #### 数据集说明
 
@@ -76,7 +76,7 @@ layout: default
 | 对话段编号 |当前对话轮编号|对话者| 对话内容                                                         | 情绪标签 |情绪原因|
 | :------: | -------- |  -------- |------------------------------------------------------------ | -------- | -------- |
 |    1     |  7 |顾客|尾款还会减75，还有用卷会减60，这是前几天商品图片说的|中性|无|
-|    1     |8|顾客|<img src="https://github.com/ccac2022ecemc/ccac2022ecemc.github.io/blob/main/IMGS/pay.jpg">|中性|无|
+|    1     |8|顾客|<img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/pay.jpg">|中性|无|
 |    1     |9|顾客|结果只有减30|沮丧|7|
 
 &ensp;&ensp;&ensp;&ensp;测试数据集以xlsx格式发布，包含对话段编号，当前对话轮编号，对话者，对话内容，情绪标签。示例如下：
@@ -109,8 +109,8 @@ $$ Acc = \frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$$
 
 &ensp;&ensp;&ensp;&ensp;有意向参加的单位机构请直接填写[在线报名表]([https://docs.qq.com/form/fill/DZGVJT256eUxOREtP?_w_tencentdocx_form=1](https://docs.qq.com/form/page/DZXFUeHJBZFJQS1pW?friendUin=pF9TeBMiHxvQZfhuogckdg%253D%253D#/fill-detail))，或者扫描下方二维码进入在线报名表填写。
 
-<!-- <div align="center"><img src="https://github.com/ccac2022ecemc/ccac2022ecemc.github.io/blob/main/IMGS/QRCode.png" width="24%"></div> -->
-<div align="center"><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1geiy8j2vr1j30gm0g2q3l.jpg" width="24%"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/QRCode.png" width="24%"></div>
+<!-- <div align="center"><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1geiy8j2vr1j30gm0g2q3l.jpg" width="24%"></div> -->
 
 &ensp;&ensp;&ensp;&ensp;报名存在任何问题，请联系评测会务组：xcju@stu.suda.edu.cn。
 
