@@ -47,7 +47,7 @@ layout: default
 | 生气  | 现在的码根本穿不进去 |现在的码根本穿不进去|
 |  害怕  | 怎么办 |说购买超量|
 |  沮丧  | 那抱歉了呢    | 没有哈 |
-|  开心 | <img src="https://github.com/ccac2022ecemc/ccac2022ecemc.github.io/blob/main/IMGS/smile.jpg">|嗯嗯  这种小事完全没问题|
+|  开心 | ![image](https://github.com/ccac2022ecemc/ccac2022ecemc.github.io/blob/main/IMGS/smile.jpg)|嗯嗯  这种小事完全没问题|
 | 惊讶  | 没有找到那个查询更多啊！ | 没有找到那个查询更多啊！         |
 | 中性 | 您从店铺首页，点击进入专区                         |---------无---------                                         |
 
