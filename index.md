@@ -49,7 +49,7 @@ layout: default
 |  沮丧  | 那抱歉了呢    | 没有哈 |
 |  开心 | <img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/smile.jpg">|嗯嗯  这种小事完全没问题|
 | 惊讶  | 没有找到那个查询更多啊！ | 没有找到那个查询更多啊！         |
-| 中性 | 您从店铺首页，点击进入专区                         |---------无---------                                         |
+| 中性 | 您从店铺首页，点击进入专区                         |---------None---------                                         |
 
 <!-- https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/smile.jpg -->
 
@@ -123,11 +123,11 @@ $Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$
 
 | 事件                                       | 时间                                         |
 | ------------------------------------------ | -------------------------------------------- |
-| 集体发布任务，召集参赛队伍                                    | 2022年6月6日 |
-| 发布训练集语料                       |2022年6月13日           |
-| 发布评测集，参赛队伍开始提交程序及运行结果 | 2022年7月25日 00:00:00                            |
-| 参赛队伍提交最终运行结果截止时间           | 2022年7月26日 23:59:59                           |
-| 宣布测试结果                           | 8月8日                             |
+| 集体发布任务，召集参赛队伍                                    | 2022年6月6日-2022年6月15日 |
+| 发布训练集和验证集语料                       |2022年6月16日           |
+| 发布评测集，参赛队伍开始提交程序及运行结果 | 2022年7月28日 00:00:00                            |
+| 参赛队伍提交最终运行结果截止时间           | 2022年7月30日 23:59:59                           |
+| 公布评测结果                           | 2022年8月8日                             |
 
 
 <!-- | 撰写技术报告                               | 2020年8月16日-2020年8月31日                  |
@@ -199,26 +199,26 @@ $Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$
 
 ### 奖励
 
-- 一等奖（1名）：每名10,000元
+- 一等奖（1名）：每名--元
 
-- 二等奖（2名）：每名5,000元
+- 二等奖（2名）：每名--元
 
-- 三等奖（3名）：每名3,000元
+- 三等奖（3名）：每名--元
 
 ### 获奖队伍
 - **一等奖**
-    - Tencent
+<!--     - Tencent -->
 - **二等奖**
-    - 清博大数据
-    - 拿第一导师请吃肯德基
+<!--     - 清博大数据 -->
+<!--     - 拿第一导师请吃肯德基 -->
 - **三等奖**
-    - BERT 4EVER
-    - sys1874
-    - 炬火
+<!--     - BERT 4EVER -->
+<!--     - sys1874 -->
+<!--     - 炬火 -->
 
 
 ### 技术报告&汇报PPT
-- [Tencent-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/Tencent-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
+<!-- - [Tencent-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/Tencent-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
 - [清博大数据-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/%E6%B8%85%E5%8D%9A%E5%A4%A7%E6%95%B0%E6%8D%AE-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
 - [拿第一导师请吃肯德基-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/%E6%8B%BF%E7%AC%AC%E4%B8%80%E5%AF%BC%E5%B8%88%E8%AF%B7%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA-SMP2020EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
 - [BERT 4EVER-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/BERT%204EVER-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
@@ -228,11 +228,11 @@ $Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$
 
 技术报告也可前往百度网盘下载。链接: [https://pan.baidu.com/s/1iSxAkETd2Ia2f3uvsTQLrA](https://pan.baidu.com/s/1iSxAkETd2Ia2f3uvsTQLrA)  密码: s83q
 
-获奖队伍评测汇报PPT下载链接: [https://pan.baidu.com/s/1kxHqM4SXtxDTKkLKpX1ibQ](https://pan.baidu.com/s/1kxHqM4SXtxDTKkLKpX1ibQ)  密码: ast3
+获奖队伍评测汇报PPT下载链接: [https://pan.baidu.com/s/1kxHqM4SXtxDTKkLKpX1ibQ](https://pan.baidu.com/s/1kxHqM4SXtxDTKkLKpX1ibQ)  密码: ast3 -->
 
 ### 论文发表
 
-本技术评测将与国际期刊Data Intelligence（[http://www.data-intelligence.org/](http://www.data-intelligence.org/)）合作，获奖的优秀模型将有机会以单独或综述的方式在该刊上发表技术论文，发表的论文将会获得期刊颁发的奖励。
+<!-- 本技术评测将与国际期刊Data Intelligence（[http://www.data-intelligence.org/](http://www.data-intelligence.org/)）合作，获奖的优秀模型将有机会以单独或综述的方式在该刊上发表技术论文，发表的论文将会获得期刊颁发的奖励。 -->
 
 ### 评测委员会
 
