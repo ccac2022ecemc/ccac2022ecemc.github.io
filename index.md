@@ -55,11 +55,11 @@ layout: default
 
 #### 数据集与性能评价说明
 
-1. 本次技术评测使用的标注数据集由苏州大学多模态分析和自然语言处理（MANLP）研究小组提供，原始数据源于京东客服对话。
+&ensp;&ensp;&ensp;&ensp;1. 本次技术评测使用的标注数据集由苏州大学多模态分析和自然语言处理（MANLP）研究小组提供，原始数据源于京东客服对话。
 
-2. 多模态情绪原因抽取数据集包含训练验证集800段对话，每段对话包含约30轮话语（文本或图片），测试集200段对话，每段对话包含约30轮话语（文本或图片）。
+&ensp;&ensp;&ensp;&ensp;2. 多模态情绪原因抽取数据集包含训练验证集800段对话，每段对话包含约30轮话语（文本或图片），测试集200段对话，每段对话包含约30轮话语（文本或图片）。
 
-3. 训练数据集以xlsx格式发布，包含六列：对话段编号，对话轮次编号，对话者，对话内容，情绪标签，情绪原因位置。对话内容是文本或图片。示例如下：
+&ensp;&ensp;&ensp;&ensp;3. 训练数据集以xlsx格式发布，包含六列：对话段编号，对话轮次编号，对话者，对话内容，情绪标签，情绪原因位置。对话内容是文本或图片。示例如下：
 
 <!-- &ensp;&ensp;&ensp;&ensp;通用微博训练数据集包括27,768条微博，验证集包含2,000条微博，测试数据集包含5,000条微博。
 
@@ -75,7 +75,7 @@ layout: default
 |    1     |8|顾客|<img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/pay.jpg">|中性|无|
 |    1     |9|顾客|结果只有减30|沮丧|7|
 
-4. 测试数据集以xlsx格式发布，包含对话段编号，对话轮次编号，对话者，对话内容，情绪标签。示例如下：
+&ensp;&ensp;&ensp;&ensp;4. 测试数据集以xlsx格式发布，包含对话段编号，对话轮次编号，对话者，对话内容，情绪标签。示例如下：
 
 | 对话段编号 |当前对话轮编号|对话者| 对话内容                                                         | 情绪标签 |
 | :------: | -------- |  -------- |------------------------------------------------------------ | -------- |
@@ -83,16 +83,16 @@ layout: default
 |    1     |25|客服|好的哦|中性|
 |    1     |26|顾客|不客气哈，应该的~感谢您的支持|开心|
 
-5. 评价指标
+&ensp;&ensp;&ensp;&ensp;5. 评价指标
 
-本次测试以准确率Acc值作为评测指标，最终我们会对根据测试集的测试结果作为最终结果，即：
+&ensp;&ensp;&ensp;&ensp;本次测试以准确率Acc值作为评测指标，最终我们会对根据测试集的测试结果作为最终结果，即：
 
 
-$Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$
+&ensp;&ensp;&ensp;&ensp;$Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$
 <!-- ![](http://latex.codecogs.com/svg.latex?Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}) -->
 <!-- $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\times R_e}{P_e+R_e}\\Macro\_F=\frac{1}{n}\sum_{e\in Emotions}F_{e}\\Macro\_F_{final} = \frac{(Macro\_F_{通用}+Macro\_F_{疫情})}{2}\\$$  -->
 
-其中$e\in Emotions, Emotions= \{Anger, Fear, Frustration, Happy, Sad, Surprise, Neutral \}$
+&ensp;&ensp;&ensp;&ensp;其中$e\in Emotions, Emotions= \{Anger, Fear, Frustration, Happy, Sad, Surprise, Neutral \}$
 
 ### 数据集下载
 本次评测所有的数据集已经发布（**因学校服务器原因有延迟，这几天将发布**):
@@ -199,7 +199,7 @@ $Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$
 ### 联系方式
 如果有任何与本次评测相关的问题，请随时联系会务组。
 
-**评测会务组邮箱：xcju@stu.suda.edu.cn
+**评测会务组邮箱：xcju@stu.suda.edu.cn**
 
 ### 致谢
 
