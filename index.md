@@ -57,7 +57,7 @@ layout: default
 
 &ensp;&ensp;&ensp;&ensp;本次技术评测使用的标注数据集由苏州大学多模态分析和自然语言处理（MANLP）研究小组提供，原始数据源于京东客服对话。
 
-&ensp;&ensp;&ensp;&ensp;每条对话被标注为以下六个类别之一：生气（Anger）、害怕（Fear）、沮丧（Frustration）、开心（Happy）、伤心（Sad）、惊讶（Surprise），中性（Neutral）。
+&ensp;&ensp;&ensp;&ensp;每条对话被标注为以下七个类别之一：生气（Anger）、害怕（Fear）、沮丧（Frustration）、开心（Happy）、伤心（Sad）、惊讶（Surprise），中性（Neutral）。
 
 &ensp;&ensp;&ensp;&ensp;多模态情绪原因抽取数据集包含训练验证集900段对话，每段对话包含约30轮话语（文本或图片），测试集100段对话，每段对话包含约30轮话语（文本或图片）。
 
@@ -197,56 +197,11 @@ $Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$
         ```
  -->
 
-### 奖励
-
-- 一等奖（1名）：每名--元
-
-- 二等奖（2名）：每名--元
-
-- 三等奖（3名）：每名--元
-
-### 获奖队伍
-- **一等奖**
-<!--     - Tencent -->
-- **二等奖**
-<!--     - 清博大数据 -->
-<!--     - 拿第一导师请吃肯德基 -->
-- **三等奖**
-<!--     - BERT 4EVER -->
-<!--     - sys1874 -->
-<!--     - 炬火 -->
-
-
-### 技术报告&汇报PPT
-<!-- - [Tencent-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/Tencent-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
-- [清博大数据-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/%E6%B8%85%E5%8D%9A%E5%A4%A7%E6%95%B0%E6%8D%AE-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
-- [拿第一导师请吃肯德基-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/%E6%8B%BF%E7%AC%AC%E4%B8%80%E5%AF%BC%E5%B8%88%E8%AF%B7%E5%90%83%E8%82%AF%E5%BE%B7%E5%9F%BA-SMP2020EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
-- [BERT 4EVER-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/BERT%204EVER-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
-- [SYS1874-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/SYS1874-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
-- [炬火-SMP2020-EWECT评测技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/%E7%82%AC%E7%81%AB-SMP2020-EWECT%E8%AF%84%E6%B5%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
-- [NanshanNLP-SMP2020-EWECT技术报告.pdf](https://github.com/smp2020ewect/smp2020ewect.github.io/blob/master/reports/NanshanNLP-SMP2020EWECT%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A.pdf)
-
-技术报告也可前往百度网盘下载。链接: [https://pan.baidu.com/s/1iSxAkETd2Ia2f3uvsTQLrA](https://pan.baidu.com/s/1iSxAkETd2Ia2f3uvsTQLrA)  密码: s83q
-
-获奖队伍评测汇报PPT下载链接: [https://pan.baidu.com/s/1kxHqM4SXtxDTKkLKpX1ibQ](https://pan.baidu.com/s/1kxHqM4SXtxDTKkLKpX1ibQ)  密码: ast3 -->
-
-### 论文发表
-
-<!-- 本技术评测将与国际期刊Data Intelligence（[http://www.data-intelligence.org/](http://www.data-intelligence.org/)）合作，获奖的优秀模型将有机会以单独或综述的方式在该刊上发表技术论文，发表的论文将会获得期刊颁发的奖励。 -->
-
-### 评测委员会
-
-**主席**：张栋（苏州大学）
-
-**副主席**：----
-
-**评测委员会成员**：居心成（苏州大学）、平焕钦（苏州大学）
-
-### 联系方式
-
+### 组织者和联系人
+居心成（苏州大学），梁斌（哈尔滨工业大学），平焕钦（苏州大学），虞剑飞（南京理工大学）
+张栋（苏州大学），张怡（南京大学），朱苏阳（苏州大学）
 如果有任何与本次评测相关的问题，请随时联系会务组。
-
-**评测会务组邮箱**：xcju@stu.suda.edu.cn
+联系方式：xcju@stu.suda.edu.cn
 
 ### 致谢
 
