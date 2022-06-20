@@ -16,7 +16,7 @@ layout: default
     </script>
 </head>
 
-## CCAC2022情绪原因抽取技术评测（CCAC2022）
+## CCAC2022多模态情绪原因抽取技术评测（CCAC2022）
 
 ### 欢迎
 
