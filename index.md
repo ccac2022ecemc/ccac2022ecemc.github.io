@@ -103,7 +103,7 @@ layout: default
 
 ### 注册报名
 
-&ensp;&ensp;&ensp;&ensp;有意向参加的单位机构请直接填写[在线报名表]([https://docs.qq.com/form/fill/DZGVJT256eUxOREtP?_w_tencentdocx_form=1](https://docs.qq.com/form/page/DZXFUeHJBZFJQS1pW?friendUin=pF9TeBMiHxvQZfhuogckdg%253D%253D#/fill-detail))，或者扫描下方二维码进入在线报名表填写。
+&ensp;&ensp;&ensp;&ensp;有意向参加的单位机构请直接填写[在线报名表](https://docs.qq.com/form/page/DZXFUeHJBZFJQS1pW?friendUin=pF9TeBMiHxvQZfhuogckdg%253D%253D#/fill-detail)，或者扫描下方二维码进入在线报名表填写。
 
 <div align="center"><img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/QRCode.png" width="24%"></div>
 <!-- <div align="center"><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1geiy8j2vr1j30gm0g2q3l.jpg" width="24%"></div> -->
