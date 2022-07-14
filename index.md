@@ -88,11 +88,12 @@ layout: default
 &ensp;&ensp;&ensp;&ensp;本次测试以准确率Acc值作为评测指标，最终我们会对根据测试集的测试结果作为最终结果，即：
 
 
-&ensp;&ensp;&ensp;&ensp;$Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$
+&ensp;&ensp;&ensp;&ensp; $Acc=\frac{\mbox{含情感语句中Cause预测准确的数量}}{\mbox{所有有对话中情感语句的数量}}$ 
+<!-- $Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}$ -->
 <!-- ![](http://latex.codecogs.com/svg.latex?Acc=\frac{TP_e+TN_e}{TP_e+FN_e+TN_e+FP_e}) -->
 <!-- $$P_e=\frac{TP_e}{TP_e+FP_e}, R_e=\frac{TP_e}{TP_e+FN_e}\\F_e=\frac{2\times P_e\times R_e}{P_e+R_e}\\Macro\_F=\frac{1}{n}\sum_{e\in Emotions}F_{e}\\Macro\_F_{final} = \frac{(Macro\_F_{通用}+Macro\_F_{疫情})}{2}\\$$  -->
 
-&ensp;&ensp;&ensp;&ensp;其中$e\in Emotions, Emotions= \{Anger, Fear, Frustration, Happy, Sad, Surprise, Neutral \}$
+&ensp;&ensp;&ensp;&ensp;其中情感为$Emotions= \{Anger, Fear, Frustration, Happy, Sad, Surprise \}$， $\{Neutral\}$为中性，不具有情感。 具体计算为： 假如所有对话中含情感语句的数量为300， 经过模型的预测，有200句的cause被预测准确。 那么准确率Acc极 $200/300$。
 
 ### 数据集下载
 本次评测所有的数据集已经发布:
