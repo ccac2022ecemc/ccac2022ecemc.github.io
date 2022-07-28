@@ -135,7 +135,8 @@ layout: default
 ### 结果提交说明
 1.最终的评测集已经发布，2022年7月30日23：59：59截止提交评测集结果，提交方法为直接填写[结果提交表](https://docs.qq.com/form/page/DZUNMWXZWQ1NVSnpP#/fill)，或者扫描下方二维码进入填写。
 <div align="center"><img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/Submit.png" width="24%"></div>
-2.**提交的百度云链接中的内容请分类存放，并编写一个readme.txt说明每个文件对应的内容。**
+
+2.提交的百度云链接中的内容请分类存放，并**编写一个readme.txt说明每个文件对应的内容。**
 
 3.提交内容需要有可运行的代码和评测结果。评测结果包含：评测集上的最终结果文件命名为“队伍名称-评测集.xlsx”，格式如：对话段编号，当前对话轮编号，对话者，对话内容，情绪，情绪原因位置。**注意：每行是一条数据结果，标签类别同训练集。对话段编号和当前对话轮编号需要保证与发布测试集相同。**
 
