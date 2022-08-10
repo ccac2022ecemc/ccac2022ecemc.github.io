@@ -132,6 +132,15 @@ layout: default
 
 
 ### 重要通知（持续更新）
+
+### CCAC评测时间安排
+**2022年8月13日（周六）下午**
+4:00 -- 4:10  评测总结
+4:10 -- 4:20  第一名技术分享
+4:20 -- 4:30  第二名技术分享
+4:30 -- 4:40  第三名技术分享
+4:40 -- 4:50  颁奖合影
+
 ### 结果提交说明
 1.最终的评测集已经发布，2022年7月30日23：59：59截止提交评测集结果，提交方法为直接填写[结果提交表](https://docs.qq.com/form/page/DZUNMWXZWQ1NVSnpP#/fill)，或者扫描下方二维码进入填写。
 <div align="center"><img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/Submit.png" width="24%"></div>
