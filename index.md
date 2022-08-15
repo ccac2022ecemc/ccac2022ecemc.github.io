@@ -146,6 +146,11 @@ layout: default
 
 4:40 -- 4:50  颁奖合影
 
+**评测大会合影**
+
+<div align="center"><img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/合影.jpg" width="24%"></div>
+
+
 ### 结果提交说明
 1.最终的评测集已经发布，2022年7月30日23：59：59截止提交评测集结果，提交方法为直接填写[结果提交表](https://docs.qq.com/form/page/DZUNMWXZWQ1NVSnpP#/fill)，或者扫描下方二维码进入填写。
 <div align="center"><img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/Submit.png" width="24%"></div>
