@@ -148,7 +148,7 @@ layout: default
 
 **评测大会合影**
 
-<div align="center"><img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/合影.jpg" width="24%"></div>
+<div align="left"><img src="https://raw.githubusercontent.com/ccac2022ecemc/ccac2022ecemc/main/IMGS/合影.jpg"></div>
 
 
 ### 结果提交说明
